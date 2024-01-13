@@ -1,0 +1,8 @@
+/* styles.css */
+
+.background-pane {
+    -fx-background-image: url('background.jpg');
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
